@@ -1,0 +1,9 @@
+Package: server-tools
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: Vardhan <vrdhn0@gmail.com>
+Description: A repackging of some tools i use on servers.
+
